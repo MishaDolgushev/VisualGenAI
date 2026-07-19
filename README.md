@@ -21,7 +21,7 @@ advances in **autoregressive** visual generation and its integration with diffus
 
 * Develop a deep understanding of leading visual generative paradigms.
 * Learn novel, effective diffusion-based generative frameworks.
-* Master the most recent practical techniques behind state-of-the-art generative models.
+* Master the most recent training and inference techniques behind state-of-the-art generative models.
 
 ## Contents
 
