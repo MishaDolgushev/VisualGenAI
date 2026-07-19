@@ -50,15 +50,15 @@ Each lecture comes with English slides (`.pdf` in this repo) and a recorded lect
 |  8 | **Autoregressive Visual Generation** — discrete tokenizers VQ-VAE/VQ-GAN, scale-wise models (VAR, Switti), continuous AR (MAR), diffusion as AR | [Slides](week7_visual_ar_models/visual_ar_models_lecture.pdf) · [Lecture (RU)](https://disk.yandex.ru/i/3dE0XlI793U_DA) |
 |  9 | **Video Generation** — architectures, challenges, and AR video diffusion models | [Slides](week8_video_diffusion_and_efficient_genai/video_generation_and_efficient_genai_lecture.pdf) · [Lecture (RU)](https://disk.yandex.ru/i/ITGNF6ukuy1ufQ) · [Seminar (RU)](https://disk.yandex.ru/i/DPQkF553n4rkeg) |
 | 10 | **Efficient Diffusion Models** — model-level optimizations (caching, sparse attention, quantization, …) | [Slides](week8_video_diffusion_and_efficient_genai/video_generation_and_efficient_genai_lecture.pdf) · [Lecture (RU)](https://disk.yandex.ru/i/ITGNF6ukuy1ufQ) |
-| 11 | **Multimodal Generative Models** — architectures, training setups, and conditioning in diffusion (ControlNet, IP-Adapter) | [Slides](week9_multimodal_generation_and_conditioning/multimodal_generation_and_conditioning.pdf) · [Lecture](https://disk.yandex.ru/i/EVl_Y3fF0KL8SA) |
-| 12 | **3D Generative Models** — intro to 3D modeling and multi-view diffusion models | [Slides](week10_3d_generative_models/3d_generative_models_lecture.pdf) · [Lecture](https://disk.yandex.ru/i/kAUxkOnFmZxJmw) |
+| 11 | **Multimodal Generative Models** — architectures, training setups, and conditioning in diffusion (ControlNet, IP-Adapter) | [Slides](week9_multimodal_generation_and_conditioning/multimodal_generation_and_conditioning.pdf) · [Lecture (RU)](https://disk.yandex.ru/i/EVl_Y3fF0KL8SA) |
+| 12 | **3D Generative Models** — intro to 3D modeling and multi-view diffusion models | [Slides](week10_3d_generative_models/3d_generative_models_lecture.pdf) · [Lecture (RU)](https://disk.yandex.ru/i/kAUxkOnFmZxJmw) |
 
 <hr>
 
 ## Assignments
 
 Homeworks live in [`assignments/`](assignments). Each contains a starter notebook (and a `task.pdf`
-/ `theory.pdf` where applicable); reference solutions are released separately.
+/ `theory.pdf` where applicable).
 
 |  # | Topic | Starter |
 |:--:|-------|---------|
